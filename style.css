@@ -68,9 +68,6 @@ footer {
   background-color: #aaa;
 }
 
-.social i {
-  color:black;
-}
 
 @media screen and (max-width: 768px) {
   main {
